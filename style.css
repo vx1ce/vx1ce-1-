@@ -1,1 +1,17 @@
 ﻿
+body {
+    background: #B6CCCB;
+}
+
+.Popular_product {
+    width: 1180px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns:   repeat(auto-fit, 366);
+    grid-gap: 36px;
+}
+
+.1 {
+    height: 579px;
+    background: #121315;
+}
